@@ -7,12 +7,6 @@
     <Task Execution_Number="1" FunctionBlockID="528">
       <CoolingAir State="1"/>
     </Task>
-    <Task Execution_Number="2" FunctionBlockID="514">
-      <Task MoveType="1" PosX="1200" PosY="270" PosZ="800" PosA="180" PosB="0" PosC="180" Status="22" Turn="27" Velocity="0.050" Acceleration="0" Jerk="0" ToolNum="4" BaseNum="0" MotionNum="0"/>
-    </Task>
-    <Task Execution_Number="3" FunctionBlockID="521">
-      <Task Fixture_Angle="-90.00" Velocity="50.00"/>
-    </Task>
   </StartProcedure>
   <Intertask id="Forming - 515">
     <Task Execution_Number="4" FunctionBlockID="515">
