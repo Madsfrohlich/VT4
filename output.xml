@@ -1,23 +1,19 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<FormingGalvo>
-  <Intertask id="1" no="0">
-    <NumberOfTasks taskNo="4">
+<LaserPrograms>
+  <Intertask id="515" no="0">
+    <NumberOfTasks taskNo="100">
       <Task Delay="0" ExecutionID="0" FunctionBlockID="518" subNo="0">
-        <ProtectionAir State="1.00"/>
+        <ProtectionAir State="1"/>
       </Task>
       <Task Delay="0" ExecutionID="1" FunctionBlockID="528" subNo="1">
-        <CoolingAir State="1.00"/>
+        <CoolingAir State="1"/>
       </Task>
       <Task Delay="0" ExecutionID="2" FunctionBlockID="514" subNo="2">
-        <Robot MoveType="1.00" PosX="1200.00" PosY="270.00" PosZ="800.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="0.05" Acceleration="0.00" Jerk="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1" PosX="1200.00" PosY="270.00" PosZ="800.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" ToolNum="4" BaseNum="0" MotionNum="0"/>
       </Task>
       <Task Delay="0" ExecutionID="3" FunctionBlockID="521" subNo="3">
-        <Fixture Angle="-90.00" Velocity="50.00"/>
+        <Fixture Fixture_Angle="-90.00" Velocity="50.00"/>
       </Task>
-    </NumberOfTasks>
-  </Intertask>
-  <Intertask id="515" no="1">
-    <NumberOfTasks taskNo="100">
       <Task Delay="0" ExecutionID="4" FunctionBlockID="515" subNo="4">
         <ProcessScanner StartPointX="5.00" EndPointX="5.00" StartPointY="0.00" EndPointY="0.00" StartPointZ="40.00" EndPointZ="-40.00" Vel="30.00" Power="200.00" Line="2.00" Diameter="3.00"/>
       </Task>
@@ -320,4 +316,4 @@
       </Task>
     </NumberOfTasks>
   </Intertask>
-</FormingGalvo>
+</LaserPrograms>
