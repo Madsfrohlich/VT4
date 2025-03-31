@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<LaserPrograms>
+    <Intertask id="515" no="0">
+        <NumberOfTasks taskNo="13">
+            <Task Delay="0" ExecutionID="0" FunctionBlockID="521" subNo="0">
+                <Fixture Angle="-87.00" Velocity="50.00"/>
+            </Task>
+            <Task Delay="0" ExecutionID="1" FunctionBlockID="518" subNo="1">
+                 <ProtectionAir State="1"/>
+            </Task>
+            <Task Delay="0" ExecutionID="2" FunctionBlockID="528" subNo="2">
+                 <CoolingAir State="1"/>
+            </Task>
+            <Task Delay="0" ExecutionID="3" FunctionBlockID="514" subNo="3">
+                <Robot MovType="1" PosX="1348.00" PosY="225.00" PosZ="858.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22" Turn="27" Velocity="0.050" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0"/>
+            </Task>
+            <Task Delay="0" ExecutionID="4" FunctionBlockID="515" subNo="4">
+                <ProcessScanner StartPointX="1348.00" EndPointX ="1348.00" StartPointY="250.00" EndPointY="200.00" StartPointZ="857.00" EndPointZ="857.00" Vel="50.00" Power="100.00" Line="2" Diameter="3.00"/>
+            </Task>
+            <Task Delay="0" ExecutionID="5" FunctionBlockID="514" subNo="5">
+                <Robot MovType="1" PosX="1348.00" PosY="225.00" PosZ="853.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22" Turn="27" Velocity="0.050" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0"/>
+            </Task>
+            <Task Delay="0" ExecutionID="6" FunctionBlockID="515" subNo="6">
+                <ProcessScanner StartPointX="1348.00" EndPointX ="1348.00" StartPointY="245.00" EndPointY="205.00" StartPointZ="857.00" EndPointZ="857.00" Vel="50.00" Power="100.00" Line="2" Diameter="3.00"/>
+            </Task>
+            <Task Delay="0" ExecutionID="7" FunctionBlockID="523" subNo="7">
+                 <Delay Delay="1500"/>
+            </Task>
+            <Task Delay="0" ExecutionID="8" FunctionBlockID="518" subNo="8">
+                 <ProtectionAir State="0"/>
+            </Task>
+            <Task Delay="0" ExecutionID="9" FunctionBlockID="528" subNo="9">
+                 <CoolingAir State="0"/>
+            </Task>
+        </NumberOfTasks>
+    </Intertask>
+</LaserPrograms>
