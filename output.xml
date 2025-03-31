@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <FormingGalvo>
-  <Intertask id="StartProcedure">
+  <Intertask id="1" no="0">
     <NumberOfTasks taskNo="4">
       <Task Delay="0" Execution_Number="0" FunctionBlockID="518" subNo="0">
         <ProtectionAir State="1.00"/>
@@ -15,9 +15,8 @@
         <Fixture Angle="-90.00" Velocity="50.00"/>
       </Task>
     </NumberOfTasks>
-    <NumberOfTasks taskNo="4"/>
   </Intertask>
-  <Intertask id="515">
+  <Intertask id="515" no="1">
     <NumberOfTasks taskNo="100">
       <Task Delay="0" Execution_Number="4" FunctionBlockID="515" subNo="4">
         <ProcessScanner StartPointX="5.00" EndPointX="5.00" StartPointY="0.00" EndPointY="0.00" StartPointZ="40.00" EndPointZ="-40.00" Vel="30.00" Power="200.00" Line="2.00" Diameter="3.00"/>
@@ -320,9 +319,8 @@
         <ProcessScanner StartPointX="15.00" EndPointX="15.00" StartPointY="0.00" EndPointY="0.00" StartPointZ="40.00" EndPointZ="-40.00" Vel="30.00" Power="200.00" Line="2.00" Diameter="3.00"/>
       </Task>
     </NumberOfTasks>
-    <NumberOfTasks taskNo="100"/>
   </Intertask>
-  <Intertask id="Engraving - 515">
+  <Intertask id="515" no="2">
     <NumberOfTasks taskNo="552">
       <Task Delay="0" Execution_Number="104" FunctionBlockID="515" subNo="104">
         <ProcessScanner/>
@@ -2533,6 +2531,5 @@
         <Task StartPointX="14.29" EndPointX="14.29" StartPointY="23.14" EndPointY="23.14" StartPointZ="0.00" EndPointZ="0.00" Vel="50.00" Power="300.00" Line="1.00" Diameter="2.00"/>
       </Task>
     </NumberOfTasks>
-    <NumberOfTasks taskNo="552"/>
   </Intertask>
 </FormingGalvo>
