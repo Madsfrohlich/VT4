@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <LaserPrograms>
   <Intertask id="515" no="0">
-    <NumberOfTasks taskNo="654">
+    <NumberOfTasks taskNo="656">
       <Task Delay="0" ExecutionID="0" FunctionBlockID="518" subNo="0">
         <ProtectionAir State="1"/>
       </Task>
       <Task Delay="0" ExecutionID="1" FunctionBlockID="528" subNo="1">
         <CoolingAir State="1"/>
+      </Task>
+      <Task Delay="0" ExecutionID="2" FunctionBlockID="514" subNo="2">
+        <Robot MoveType="1" PosX="1200" PosY="270" PosZ="800" PosA="180" PosB="0" PosC="180" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" ToolNum="4" BaseNum="0" MotionNum="0"/>
+      </Task>
+      <Task Delay="0" ExecutionID="3" FunctionBlockID="521" subNo="3">
+        <Fixture Angle="-90.00" Velocity="50.00"/>
       </Task>
       <Task Delay="0" ExecutionID="4" FunctionBlockID="515" subNo="4">
         <ProcessScanner StartPointX="5.00" EndPointX="5.00" StartPointY="0" EndPointY="0" StartPointZ="40.00" EndPointZ="-40.00" Vel="30" Power="200" Line="2" Diameter="3"/>
