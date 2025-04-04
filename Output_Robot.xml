@@ -9,91 +9,91 @@
         <CoolingAir State="1"/>
       </Task>
       <Task Delay="0" ExecutionID="2" FunctionBlockID="514" subNo="2">
-        <Robot MoveType="1.00" PosX="1258.00" PosY="-55.00" PosZ="1384.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1258.00" PosY="-55.00" PosZ="1384.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="3" FunctionBlockID="515" subNo="3">
         <ProcessScanner StartPointX="1258.00" EndPointX="1298.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="4" FunctionBlockID="514" subNo="4">
-        <Robot MoveType="1.00" PosX="1263.00" PosY="-55.00" PosZ="1394.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1263.00" PosY="-55.00" PosZ="1394.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="5" FunctionBlockID="515" subNo="5">
         <ProcessScanner StartPointX="1263.00" EndPointX="1303.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="6" FunctionBlockID="514" subNo="6">
-        <Robot MoveType="1.00" PosX="1268.00" PosY="-55.00" PosZ="1404.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1268.00" PosY="-55.00" PosZ="1404.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="7" FunctionBlockID="515" subNo="7">
         <ProcessScanner StartPointX="1268.00" EndPointX="1308.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="8" FunctionBlockID="514" subNo="8">
-        <Robot MoveType="1.00" PosX="1273.00" PosY="-55.00" PosZ="1414.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1273.00" PosY="-55.00" PosZ="1414.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="9" FunctionBlockID="515" subNo="9">
         <ProcessScanner StartPointX="1273.00" EndPointX="1313.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="10" FunctionBlockID="514" subNo="10">
-        <Robot MoveType="1.00" PosX="1278.00" PosY="-55.00" PosZ="1424.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1278.00" PosY="-55.00" PosZ="1424.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="11" FunctionBlockID="515" subNo="11">
         <ProcessScanner StartPointX="1278.00" EndPointX="1318.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="12" FunctionBlockID="514" subNo="12">
-        <Robot MoveType="1.00" PosX="1283.00" PosY="-55.00" PosZ="1434.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1283.00" PosY="-55.00" PosZ="1434.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="13" FunctionBlockID="515" subNo="13">
         <ProcessScanner StartPointX="1283.00" EndPointX="1323.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="14" FunctionBlockID="514" subNo="14">
-        <Robot MoveType="1.00" PosX="1288.00" PosY="-55.00" PosZ="1444.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1288.00" PosY="-55.00" PosZ="1444.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="15" FunctionBlockID="515" subNo="15">
         <ProcessScanner StartPointX="1288.00" EndPointX="1328.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="16" FunctionBlockID="514" subNo="16">
-        <Robot MoveType="1.00" PosX="1293.00" PosY="-55.00" PosZ="1454.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1293.00" PosY="-55.00" PosZ="1454.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="17" FunctionBlockID="515" subNo="17">
         <ProcessScanner StartPointX="1293.00" EndPointX="1333.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="18" FunctionBlockID="514" subNo="18">
-        <Robot MoveType="1.00" PosX="1298.00" PosY="-55.00" PosZ="1464.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1298.00" PosY="-55.00" PosZ="1464.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="19" FunctionBlockID="515" subNo="19">
         <ProcessScanner StartPointX="1298.00" EndPointX="1338.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="20" FunctionBlockID="514" subNo="20">
-        <Robot MoveType="1.00" PosX="1303.00" PosY="-55.00" PosZ="1474.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1303.00" PosY="-55.00" PosZ="1474.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="21" FunctionBlockID="515" subNo="21">
         <ProcessScanner StartPointX="1303.00" EndPointX="1343.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="22" FunctionBlockID="514" subNo="22">
-        <Robot MoveType="1.00" PosX="1308.00" PosY="-55.00" PosZ="1484.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1308.00" PosY="-55.00" PosZ="1484.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="23" FunctionBlockID="515" subNo="23">
         <ProcessScanner StartPointX="1308.00" EndPointX="1348.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="24" FunctionBlockID="514" subNo="24">
-        <Robot MoveType="1.00" PosX="1313.00" PosY="-55.00" PosZ="1494.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1313.00" PosY="-55.00" PosZ="1494.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="25" FunctionBlockID="515" subNo="25">
         <ProcessScanner StartPointX="1313.00" EndPointX="1353.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="26" FunctionBlockID="514" subNo="26">
-        <Robot MoveType="1.00" PosX="1318.00" PosY="-55.00" PosZ="1504.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1318.00" PosY="-55.00" PosZ="1504.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="27" FunctionBlockID="515" subNo="27">
         <ProcessScanner StartPointX="1318.00" EndPointX="1358.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="28" FunctionBlockID="514" subNo="28">
-        <Robot MoveType="1.00" PosX="1323.00" PosY="-55.00" PosZ="1514.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1323.00" PosY="-55.00" PosZ="1514.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="29" FunctionBlockID="515" subNo="29">
         <ProcessScanner StartPointX="1323.00" EndPointX="1363.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="30" FunctionBlockID="514" subNo="30">
-        <Robot MoveType="1.00" PosX="1328.00" PosY="-55.00" PosZ="1524.00" PosA="180.00" PosB="0.00" PosC="180.00" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
+        <Robot MoveType="1.00" PosX="1328.00" PosY="-55.00" PosZ="1524.00" PosA="8.60" PosB="90.00" PosC="8.50" Status="22.00" Turn="27.00" Velocity="1.00" Acceleration="0.05" Jerk="0.00" Zone="0.00" ToolNum="4.00" BaseNum="0.00" MotionNum="0.00"/>
       </Task>
       <Task Delay="0" ExecutionID="31" FunctionBlockID="515" subNo="31">
         <ProcessScanner StartPointX="1328.00" EndPointX="1368.00" StartPointY="-55.00" EndPointY="-55.00" StartPointZ="1384.00" EndPointZ="1384.00" Vel="30" Power="200" Line="2" Diameter="3"/>
