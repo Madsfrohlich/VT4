@@ -9,7 +9,7 @@
         <CoolingAir State="1"/>
       </Task>
       <Task Delay="0" ExecutionID="2" FunctionBlockID="514" subNo="2">
-        <Robot MovType="1" PosX="1520" PosY="230" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.050" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0"/>
+        <Robot MovType="1" PosX="1475" PosY="230" PosZ="938" PosA="180.00" PosB="0.00" PosC="-178.00" Status="22" Turn="27" Velocity="0.050" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0"/>
       </Task>
       <Task Delay="0" ExecutionID="3" FunctionBlockID="515" subNo="3">
         <ProcessScanner StartPointX="1520.00" EndPointX="1520.00" StartPointY="200" EndPointY="240" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
