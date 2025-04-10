@@ -12,34 +12,34 @@
         <Robot MovType="1" PosX="1475" PosY="230" PosZ="938" PosA="-178.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.050" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0"/>
       </Task>
       <Task Delay="0" ExecutionID="3" FunctionBlockID="515" subNo="3">
-        <ProcessScanner StartPointX="1542.43" EndPointX="1537.49" StartPointY="191.31" EndPointY="271.16" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+        <ProcessScanner StartPointX="1622.28" EndPointX="1617.34" StartPointY="196.25" EndPointY="276.10" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="4" FunctionBlockID="515" subNo="4">
-        <ProcessScanner StartPointX="1541.32" EndPointX="1536.38" StartPointY="191.24" EndPointY="271.09" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+        <ProcessScanner StartPointX="1621.17" EndPointX="1616.23" StartPointY="196.18" EndPointY="276.03" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="5" FunctionBlockID="515" subNo="5">
-        <ProcessScanner StartPointX="1540.21" EndPointX="1535.27" StartPointY="191.17" EndPointY="271.02" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+        <ProcessScanner StartPointX="1620.06" EndPointX="1615.12" StartPointY="196.11" EndPointY="275.96" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="6" FunctionBlockID="515" subNo="6">
-        <ProcessScanner StartPointX="1539.10" EndPointX="1534.17" StartPointY="191.11" EndPointY="270.95" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+        <ProcessScanner StartPointX="1618.95" EndPointX="1614.01" StartPointY="196.05" EndPointY="275.89" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="7" FunctionBlockID="515" subNo="7">
-        <ProcessScanner StartPointX="1538.00" EndPointX="1533.06" StartPointY="191.04" EndPointY="270.88" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+        <ProcessScanner StartPointX="1617.84" EndPointX="1612.90" StartPointY="195.98" EndPointY="275.82" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="8" FunctionBlockID="515" subNo="8">
-        <ProcessScanner StartPointX="1536.89" EndPointX="1531.95" StartPointY="190.97" EndPointY="270.82" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+        <ProcessScanner StartPointX="1616.73" EndPointX="1611.79" StartPointY="195.91" EndPointY="275.76" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="9" FunctionBlockID="515" subNo="9">
-        <ProcessScanner StartPointX="1535.78" EndPointX="1530.84" StartPointY="190.90" EndPointY="270.75" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+        <ProcessScanner StartPointX="1615.63" EndPointX="1610.69" StartPointY="195.84" EndPointY="275.69" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="10" FunctionBlockID="515" subNo="10">
-        <ProcessScanner StartPointX="1534.67" EndPointX="1529.73" StartPointY="190.83" EndPointY="270.68" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+        <ProcessScanner StartPointX="1614.52" EndPointX="1609.58" StartPointY="195.77" EndPointY="275.62" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="11" FunctionBlockID="515" subNo="11">
-        <ProcessScanner StartPointX="1533.56" EndPointX="1528.62" StartPointY="190.76" EndPointY="270.61" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+        <ProcessScanner StartPointX="1613.41" EndPointX="1608.47" StartPointY="195.70" EndPointY="275.55" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="12" FunctionBlockID="515" subNo="12">
-        <ProcessScanner StartPointX="1532.45" EndPointX="1527.51" StartPointY="190.69" EndPointY="270.54" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+        <ProcessScanner StartPointX="1612.30" EndPointX="1607.36" StartPointY="195.63" EndPointY="275.48" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
       </Task>
       <Task Delay="0" ExecutionID="13" FunctionBlockID="515" subNo="13">
         <ProcessScanner StartPointX="1453.47" EndPointX="1453.35" StartPointY="199.45" EndPointY="201.32" StartPointZ="938" EndPointZ="938" Vel="150" Power="300" Line="2" Diameter="3"/>
