@@ -3,34 +3,34 @@
   <Intertask id="514" no="0">
     <NumberOfTasks taskNo="10">
       <Task Delay="0" ExecutionID="0" FunctionBlockID="514" subNo="0">
-        <Robot MovType="1" PosX="1475" PosY="200" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
+        <Robot MovType="1" PosX="1520" PosY="200" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
       </Task>
       <Task Delay="0" ExecutionID="1" FunctionBlockID="514" subNo="1">
-        <Robot MovType="1" PosX="1475" PosY="198" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
+        <Robot MovType="1" PosX="1520" PosY="198" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
       </Task>
       <Task Delay="0" ExecutionID="2" FunctionBlockID="514" subNo="2">
-        <Robot MovType="1" PosX="1475" PosY="196" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
+        <Robot MovType="1" PosX="1520" PosY="196" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
       </Task>
       <Task Delay="0" ExecutionID="3" FunctionBlockID="514" subNo="3">
-        <Robot MovType="1" PosX="1475" PosY="194" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
+        <Robot MovType="1" PosX="1520" PosY="194" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
       </Task>
       <Task Delay="0" ExecutionID="4" FunctionBlockID="514" subNo="4">
-        <Robot MovType="1" PosX="1475" PosY="192" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
+        <Robot MovType="1" PosX="1520" PosY="192" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
       </Task>
       <Task Delay="0" ExecutionID="5" FunctionBlockID="514" subNo="5">
-        <Robot MovType="1" PosX="1475" PosY="190" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
+        <Robot MovType="1" PosX="1520" PosY="190" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
       </Task>
       <Task Delay="0" ExecutionID="6" FunctionBlockID="514" subNo="6">
-        <Robot MovType="1" PosX="1475" PosY="188" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
+        <Robot MovType="1" PosX="1520" PosY="188" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
       </Task>
       <Task Delay="0" ExecutionID="7" FunctionBlockID="514" subNo="7">
-        <Robot MovType="1" PosX="1475" PosY="186" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
+        <Robot MovType="1" PosX="1520" PosY="186" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
       </Task>
       <Task Delay="0" ExecutionID="8" FunctionBlockID="514" subNo="8">
-        <Robot MovType="1" PosX="1475" PosY="184" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
+        <Robot MovType="1" PosX="1520" PosY="184" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
       </Task>
       <Task Delay="0" ExecutionID="9" FunctionBlockID="514" subNo="9">
-        <Robot MovType="1" PosX="1475" PosY="182" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
+        <Robot MovType="1" PosX="1520" PosY="182" PosZ="938" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.05" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0" Power="0"/>
       </Task>
     </NumberOfTasks>
   </Intertask>
