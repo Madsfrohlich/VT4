@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<LaserPrograms>
+  <Intertask id="515" no="0">
+    <NumberOfTasks taskNo="15">
+      <Task Delay="0" ExecutionID="0" FunctionBlockID="518" subNo="0">
+        <ProtectionAir State="1"/>
+      </Task>
+      <Task Delay="0" ExecutionID="1" FunctionBlockID="528" subNo="1">
+        <CoolingAir State="1"/>
+      </Task>
+      <Task Delay="0" ExecutionID="2" FunctionBlockID="514" subNo="2">
+        <Robot MovType="1" PosX="1523" PosY="231" PosZ="948" PosA="180.00" PosB="0.00" PosC="-180.00" Status="22" Turn="27" Velocity="0.050" Acceleration="0" Jerk="0" Zone="0" ToolNum="4" BaseNum="0" MotionNum="0"/>
+      </Task>
+      <Task Delay="0" ExecutionID="3" FunctionBlockID="515" subNo="3">
+        <ProcessScanner StartPointX="1530.04" EndPointX="1526.09" StartPointY="190.46" EndPointY="267.36" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+      </Task>
+      <Task Delay="0" ExecutionID="4" FunctionBlockID="515" subNo="4">
+        <ProcessScanner StartPointX="1531.15" EndPointX="1527.20" StartPointY="190.52" EndPointY="267.42" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+      </Task>
+      <Task Delay="0" ExecutionID="5" FunctionBlockID="515" subNo="5">
+        <ProcessScanner StartPointX="1532.26" EndPointX="1528.31" StartPointY="190.58" EndPointY="267.48" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+      </Task>
+      <Task Delay="0" ExecutionID="6" FunctionBlockID="515" subNo="6">
+        <ProcessScanner StartPointX="1533.37" EndPointX="1529.42" StartPointY="190.63" EndPointY="267.53" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+      </Task>
+      <Task Delay="0" ExecutionID="7" FunctionBlockID="515" subNo="7">
+        <ProcessScanner StartPointX="1534.48" EndPointX="1530.53" StartPointY="190.69" EndPointY="267.59" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+      </Task>
+      <Task Delay="0" ExecutionID="8" FunctionBlockID="515" subNo="8">
+        <ProcessScanner StartPointX="1535.59" EndPointX="1531.64" StartPointY="190.75" EndPointY="267.65" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+      </Task>
+      <Task Delay="0" ExecutionID="9" FunctionBlockID="515" subNo="9">
+        <ProcessScanner StartPointX="1536.70" EndPointX="1532.75" StartPointY="190.80" EndPointY="267.70" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+      </Task>
+      <Task Delay="0" ExecutionID="10" FunctionBlockID="515" subNo="10">
+        <ProcessScanner StartPointX="1537.81" EndPointX="1533.86" StartPointY="190.86" EndPointY="267.76" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+      </Task>
+      <Task Delay="0" ExecutionID="11" FunctionBlockID="515" subNo="11">
+        <ProcessScanner StartPointX="1538.92" EndPointX="1534.97" StartPointY="190.92" EndPointY="267.82" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+      </Task>
+      <Task Delay="0" ExecutionID="12" FunctionBlockID="515" subNo="12">
+        <ProcessScanner StartPointX="1540.03" EndPointX="1536.08" StartPointY="190.98" EndPointY="267.87" StartPointZ="949" EndPointZ="949" Vel="100" Power="300" Line="2" Diameter="3"/>
+      </Task>
+      <Task Delay="0" ExecutionID="13" FunctionBlockID="518" subNo="13">
+        <ProtectionAir State="0"/>
+      </Task>
+      <Task Delay="0" ExecutionID="15" FunctionBlockID="528" subNo="15">
+        <CoolingAir State="0"/>
+      </Task>
+    </NumberOfTasks>
+  </Intertask>
+</LaserPrograms>
